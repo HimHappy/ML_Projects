@@ -18,7 +18,9 @@ The project covers data loading, exploratory data analysis, data preprocessing, 
 
 ```bash
 
-# Explore more projects
-## freelance2
 git clone https://github.com/HimHappy/ML_Projects.git
 cd real-estate-prediction
+
+```
+# Explore more projects
+## freelance2
